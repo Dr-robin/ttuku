@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "lint": "./node_modules/.bin/standard"
+  },
   "devDependencies": {
     "standard": "^10.0.2"
   }
