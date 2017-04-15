@@ -1,0 +1,12 @@
+{
+  "name": "ttuku-backend",
+  "version": "0.0.1",
+  "description": "TTuKu backend server for game.",
+  "main": "index.js",
+  "repository": "https://github.com/ttuku/ttuku",
+  "author": "TTuKu Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
